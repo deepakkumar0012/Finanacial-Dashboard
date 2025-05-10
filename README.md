@@ -53,6 +53,7 @@ Loan Policy Optimization: Highlight trends by purpose and grade to adjust credit
 Enhanced Monitoring: Enables regular tracking of loan status and key performance indicators.
 
 7.Screeen shorts / Demos
+https://github.com/deepakkumar0012/Finanacial-Dashboard/blob/main/Screenshot%202025-05-10%20084505.png
 
 
 

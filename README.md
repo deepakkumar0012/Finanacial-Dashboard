@@ -54,6 +54,8 @@ Enhanced Monitoring: Enables regular tracking of loan status and key performance
 
 7.Screeen shorts / Demos
 https://github.com/deepakkumar0012/Finanacial-Dashboard/blob/main/Screenshot%202025-05-10%20084505.png
+https://github.com/deepakkumar0012/Finanacial-Dashboard/blob/main/Screenshot%202025-05-10%20084527.png
+https://github.com/deepakkumar0012/Finanacial-Dashboard/blob/main/Screenshot%202025-05-10%20084600.png
 
 
 
